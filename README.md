@@ -20,3 +20,18 @@ IDE base eclipse plugins for Duo development
 
 1. 第七步、选择刚配置的本地版本，然后再点击“Apply”按钮进行配置应用。
 1. 第八步、点击应用之后，需要大家选择编译版本，找到“Java”下面的“Compiler”选项，进行编辑版本配置。然后点击“Apply and Close”按钮，配置完成
+
+
+### JAVA下载与配置
+
+本项目选取Java17作为jdk环境，根据自身机型选取合适的安装包，更加相关提示进行安装或者环境配置
+
+jdk-17 [下载地址](https://www.oracle.com/java/technologies/downloads/#java17)
+
+### Eclipse 2023.03
+本项目选择Eclipse 2023.03 作为开发，验证环境，使用Eclipse IDE for Eclipse Committers 版本
+
+根据自身机型，安装合适IDE [下载地址](https://www.eclipse.org/downloads/packages/release/2023-03/r/eclipse-ide-eclipse-committers)
+
+### 插件生成
+
