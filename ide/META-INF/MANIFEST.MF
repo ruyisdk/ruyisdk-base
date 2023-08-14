@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Duo
+Bundle-SymbolicName: com.milkv.duo
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.milkv.duo.Activator
+Bundle-Vendor: MILKV
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: com.milkv.duo
+Bundle-ActivationPolicy: lazy
